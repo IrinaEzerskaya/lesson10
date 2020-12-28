@@ -1,1 +1,3 @@
-/lesson10.iml
+*.iml
+/.idea/
+/out/
